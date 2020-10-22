@@ -1,6 +1,6 @@
 # voyager
 
-A new Flutter project.
+A carpooling Flutter project.
 
 ## Getting Started
 
